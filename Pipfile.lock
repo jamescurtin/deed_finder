@@ -89,10 +89,11 @@
         },
         "mypy-extensions": {
             "hashes": [
-                "sha256:c4553f2475996c912658d3c2f398766cd47a65e0c2c6bb27ac8dea94a21640f4"
+                "sha256:37e0e956f41369209a3d5f34580150bcacfabaa57b33a15c0b25f4b5725e0812",
+                "sha256:b16cabe759f55e3409a7d231ebd2841378fb0c27a5d1994719e340e4f429ac3e"
             ],
             "index": "pypi",
-            "version": "==0.3.0"
+            "version": "==0.4.1"
         },
         "olefile": {
             "hashes": [
