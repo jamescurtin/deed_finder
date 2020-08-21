@@ -60,11 +60,11 @@
         },
         "gooey": {
             "hashes": [
-                "sha256:250169130c83b3ca8bbd12b2e77baaa9bd8766d3f01e65df814105187f5f3d6b",
-                "sha256:59955991291a5abff092e481cc21b4e5525b61768c2caa27f402b77196af5136"
+                "sha256:71a67be45e3ef6d04bbefe99a2968ca83671027e31ccb316a317c46ddd6e9e7f",
+                "sha256:ca6d8601454356cb4491c5800b4f56131f150b162790415f3137a842bb4b8b21"
             ],
             "index": "pypi",
-            "version": "==1.0.3.1"
+            "version": "==1.0.4.0.0.0"
         },
         "idna": {
             "hashes": [
