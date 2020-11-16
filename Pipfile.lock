@@ -60,11 +60,11 @@
         },
         "gooey": {
             "hashes": [
-                "sha256:688fed6c1955add30331b01b3b9662f6546aa5957f9d5814c00a3a9b8abbd0da",
-                "sha256:6957cbf8e7ff8e3e19aaa3b536e763c2efdbf36ebc039893d286e82381b75b82"
+                "sha256:5e5334f08db9dbd44187d33b4546bcda0d99b820ff79aa053c3777861ce73da3",
+                "sha256:c043f85505b0888caeca122b910d50fad1607e43a7f95cf750265460e06a11c9"
             ],
             "index": "pypi",
-            "version": "==1.0.5"
+            "version": "==1.0.6"
         },
         "idna": {
             "hashes": [
@@ -199,6 +199,12 @@
             ],
             "version": "==2.2.0"
         },
+        "pygtrie": {
+            "hashes": [
+                "sha256:2204dbd95584f67821da5b3771c4305ac5585552b3230b210f1f05322608db2c"
+            ],
+            "version": "==2.3.3"
+        },
         "pyinstaller": {
             "hashes": [
                 "sha256:970beb07115761d5e4ec317c1351b712fd90ae7f23994db914c633281f99bab0"
@@ -245,10 +251,10 @@
         },
         "urllib3": {
             "hashes": [
-                "sha256:097116a6f16f13482d2a2e56792088b9b2920f4eb6b4f84a2c90555fb673db74",
-                "sha256:61ad24434555a42c0439770462df38b47d05d9e8e353d93ec3742900975e3e65"
+                "sha256:19188f96923873c92ccb987120ec4acaa12f0461fa9ce5d3d0772bc965a39e08",
+                "sha256:d8ff90d979214d7b4f8ce956e80f4028fc6860e4431f731ea4a8c08f23f99473"
             ],
-            "version": "==1.26.1"
+            "version": "==1.26.2"
         },
         "wxpython": {
             "hashes": [
