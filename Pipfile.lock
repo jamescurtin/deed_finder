@@ -75,11 +75,11 @@
         },
         "importlib-metadata": {
             "hashes": [
-                "sha256:77a540690e24b0305878c37ffd421785a6f7e53c8b5720d211b211de8d0e95da",
-                "sha256:cefa1a2f919b866c5beb7c9f7b0ebb4061f30a8a9bf16d609b000e2dfaceb9c3"
+                "sha256:d582eb5c35b2f16c78e365e0f89e369f36af38fdaad0146208aa973c693ba247",
+                "sha256:fc3b3f9697703d3833d2803162d60cbe8b9f57b5da5e6496ac81e3cb82bd8d9c"
             ],
             "markers": "python_version < '3.8'",
-            "version": "==2.0.0"
+            "version": "==3.0.0"
         },
         "mccabe": {
             "hashes": [
@@ -201,16 +201,16 @@
         },
         "pygtrie": {
             "hashes": [
-                "sha256:2204dbd95584f67821da5b3771c4305ac5585552b3230b210f1f05322608db2c"
+                "sha256:4367b87d92eaf475107421dce0295a9d4d72156702908c96c430a426b654aee7"
             ],
-            "version": "==2.3.3"
+            "version": "==2.4.1"
         },
         "pyinstaller": {
             "hashes": [
-                "sha256:970beb07115761d5e4ec317c1351b712fd90ae7f23994db914c633281f99bab0"
+                "sha256:954ae81de9a4bc096ff02433b3e245b9272fe53f27cac319e71fe7540952bd3d"
             ],
             "index": "pypi",
-            "version": "==4.0"
+            "version": "==4.1"
         },
         "pyinstaller-hooks-contrib": {
             "hashes": [
