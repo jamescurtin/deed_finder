@@ -60,11 +60,11 @@
         },
         "gooey": {
             "hashes": [
-                "sha256:5e5334f08db9dbd44187d33b4546bcda0d99b820ff79aa053c3777861ce73da3",
-                "sha256:c043f85505b0888caeca122b910d50fad1607e43a7f95cf750265460e06a11c9"
+                "sha256:7332a413d07164701f0eb31cad8cfd8b6661009fb719a9b920b5a4bf9c33e075",
+                "sha256:afec6d0eeba96e8b05dbe5ad414b55a26d4666a5f765c5a403a9609be2fef83c"
             ],
             "index": "pypi",
-            "version": "==1.0.6"
+            "version": "==1.0.7"
         },
         "idna": {
             "hashes": [
@@ -75,11 +75,11 @@
         },
         "importlib-metadata": {
             "hashes": [
-                "sha256:d582eb5c35b2f16c78e365e0f89e369f36af38fdaad0146208aa973c693ba247",
-                "sha256:fc3b3f9697703d3833d2803162d60cbe8b9f57b5da5e6496ac81e3cb82bd8d9c"
+                "sha256:590690d61efdd716ff82c39ca9a9d4209252adfe288a4b5721181050acbd4175",
+                "sha256:d9b8a46a0885337627a6430db287176970fff18ad421becec1d64cfc763c2099"
             ],
             "markers": "python_version < '3.8'",
-            "version": "==3.0.0"
+            "version": "==3.1.0"
         },
         "mccabe": {
             "hashes": [
